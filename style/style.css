@@ -178,11 +178,11 @@ main {
 
 /* footer style */
 footer {
-    background-color: #161616;
+    background-color: #000;
 }
 
 
-.footer-content {}
+
 
 .terget h1 {
     text-align: center;
@@ -208,4 +208,25 @@ footer {
     color: #999;
     padding: 30px;
     display: block;
+}
+
+
+.scocial {
+    text-align: center;
+
+
+
+}
+
+.icons {
+    background-color: #999;
+    width: 200px;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.icons a {
+    color: #DD0000;
+    margin: 20px;
 }
