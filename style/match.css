@@ -1,0 +1,10 @@
+.view-tamle {
+    display: none;
+}
+
+.blog-image {
+    display: flex;
+    justify-content: space-between;
+
+
+}

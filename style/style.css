@@ -95,10 +95,11 @@ main {
     margin: 20px;
     text-decoration: none;
     font-size: 16px;
-    padding: 10px 10px;
+    padding: 10px 8px;
     border-radius: 10px;
     color: black;
     text-align: center;
+    border: 1px solid rgb(211, 207, 207);
 
 }
 
@@ -174,7 +175,7 @@ main {
 
 }
 
-.view-tamle {
+.view-tamlet {
     margin: auto;
     display: none;
 
@@ -274,6 +275,10 @@ footer {
         align-items: center;
     }
 
+    .aside {
+        background-color: #FFFFFF;
+    }
+
     .blogs {
         grid-template-columns: repeat(1, 1fr);
     }
@@ -309,6 +314,10 @@ footer {
 
     }
 
+    .aside {
+        background-color: #FFFFFF;
+    }
+
 
 
 
@@ -316,7 +325,7 @@ footer {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .view-tamle {
+    .view-tamlet {
         display: block;
     }
 }
